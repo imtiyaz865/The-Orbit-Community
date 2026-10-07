@@ -83,7 +83,7 @@ function Index() {
           style={{ animation: "fade-up 900ms ease-out 450ms both" }}
         >
           <a
-            href="https://chat.whatsapp.com/I83deOM21NJLqawV9HHpEx" target="_blank"
+            href="https://whatsapp.com/channel/0029Vb8JGaE4Y9lmTi3xB117" target="_blank"
             className="group inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3.5 font-sans text-sm font-medium text-background shadow-[var(--shadow-glow)] transition-all duration-300 hover:-translate-y-0.5 hover:scale-[1.02] hover:shadow-[0_18px_50px_-12px_rgba(17,17,17,0.35)] "
           >
             Join on WhatsApp
